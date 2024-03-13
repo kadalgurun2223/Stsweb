@@ -1,0 +1,19 @@
+.kotak{
+    margin-top: 50px;
+    margin-left: 450px;
+}
+.h1{
+    text-align: center;
+}
+.sp{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(34,34,196,1) 35%, rgba(0,212,255,1) 100%);
+}
+body{
+    background-color: blue;
+}
+h1{
+    color: white;
+}
+.h1{
+    color: black;
+}
